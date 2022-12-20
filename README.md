@@ -123,7 +123,7 @@ Lovely looping! We now have a colors list that we can pass to our scatter plot, 
 
 This time, we'll also spruce up our plot with some additional axis labels and a new theme with plt.style.use(). The latter isn't taught in Intermediate Python, but can be a fun way to add some visual flair to a basic matplotlib plot. You can find more information on customizing the style of your plot here!
 
-![Getting Started](./images/9.PNG)
+![Getting Started](./images/3.PNG)
 
 ## 10. What next?
 Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses.
