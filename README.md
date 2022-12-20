@@ -12,15 +12,25 @@ The Dataset Contains Netflix Movies and TV Shows Data like casts, director ,coun
 
 #### Columns Description
 :small_blue_diamond: show_id: The Movie Or The Show ID
+
 :small_blue_diamond: type: is it Movie Or TV Show
+
 :small_blue_diamond: title: Movie Or The Show Title
+
 :small_blue_diamond: director: Movie Or The Show director
+
 :small_blue_diamond: cast: Prople Who Worked in The Movie Or The Show
+
 :small_blue_diamond: country: Movie Or The Show Country
+
 :small_blue_diamond: date_added: Date That The Movie Or The Show Added To Netfilx
+
 :small_blue_diamond: release_year: Year Of Movie Or The Show was Released
+
 :small_blue_diamond: duration: The Movie Or The Show time long
+
 :small_blue_diamond: description: The Movie Or The Show description in words
+
 :small_blue_diamond: genre: The Categorie in which The Movie Or The Show Belongs To
 
 #### Project Tasks
