@@ -70,7 +70,7 @@ Given that the data is continuous, a line plot would be a good choice, with the 
 
 Note: In order for us to correctly test your plot, you will need to initalize a matplotlib.pyplot Figure object, which we have already provided in the cell below. You can continue to create your plot as you have learned in Intermediate Python
 
-![Getting Started](./images/3.PNG)
+![Getting Started](./images/3png.PNG)
 
 ## 4. Loading the rest of the data from a CSV
 Well, it looks like there is something to the idea that movie lengths have decreased over the past ten years! But equipped only with our friend's aggregations, we're limited in the further explorations we can perform. There are a few questions about this trend that we are currently unable to answer, including:
@@ -100,7 +100,7 @@ This time, we are no longer working with aggregates but instead with individual 
 
 Note: Although not taught in Intermediate Python, we have provided you the code fig = plt.figure(figsize=(12,8)) to increase the size of the plot (to help you see the results), as well as to assist with testing. For more information on how to create or work with a matplotlib figure, refer to the documentation.
 
-![Getting Started](./images/6.PNG)
+![Getting Started](./images/6png.PNG)
 
 ## 7. Digging deeper
 This is already much more informative than the simple plot we created when our friend first gave us some data. We can also see that, while newer movies are overrepresented on the platform, many short movies have been released in the past two decades.
@@ -123,7 +123,7 @@ Lovely looping! We now have a colors list that we can pass to our scatter plot, 
 
 This time, we'll also spruce up our plot with some additional axis labels and a new theme with plt.style.use(). The latter isn't taught in Intermediate Python, but can be a fun way to add some visual flair to a basic matplotlib plot. You can find more information on customizing the style of your plot here!
 
-![Getting Started](./images/9.PNG)
+![Getting Started](./images/9png.PNG)
 
 ## 10. What next?
 Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses. 
