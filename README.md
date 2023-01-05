@@ -127,3 +127,6 @@ This time, we'll also spruce up our plot with some additional axis labels and a 
 
 ## 10. What next?
 Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses. 
+
+## 11. Conclusion
+Movies are getting shorter by the time.
