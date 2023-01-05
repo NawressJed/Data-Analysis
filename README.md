@@ -130,3 +130,4 @@ Well, as we suspected, non-typical genres such as children's movies and document
 
 ## 11. Conclusion
 Movies are getting shorter by the time.
+reasons: Covid and financial crisis. 
