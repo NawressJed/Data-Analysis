@@ -33,7 +33,7 @@ The Dataset Contains Netflix Movies and TV Shows Data like casts, director ,coun
 
 :small_blue_diamond: genre: The Categorie in which The Movie Or The Show Belongs To
 
-#### Project Tasks
+#### Table of contents
 - Loading your friend's data into a dictionary
 - Creating a DataFrame from a dictionary
 - A visual inspection of our data
